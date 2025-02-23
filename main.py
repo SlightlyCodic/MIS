@@ -14,7 +14,7 @@ import os.path
 load_dotenv()
 
 # Configure OpenAI
-openai.api_key = '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'
+openai.api_key = ''
 
 class MISCreator:
     def __init__(self, root):
